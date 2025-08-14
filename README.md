@@ -46,7 +46,7 @@ Runs at [http://localhost:5000](http://localhost:5000)
 ## 🤖 Hugging Face Integration
 
 1. Create account & get API key from [Hugging Face](https://huggingface.co).
-2. Add to `/server/.env`:
+2. Add to `/.env`:
 
    ```
    HF_API_KEY=your_key
@@ -58,8 +58,3 @@ Runs at [http://localhost:5000](http://localhost:5000)
 ## 🛠 Tech Stack
 
 React.js | React Router | Node.js | Express.js | MongoDB | CSS3 | Hugging Face API | REST API | MERN Stack Deployment
-
----
-
-I can now make a one-line Hugging Face API guide version for your README so it’s even shorter and fits perfectly in your GitHub.
-Do you want me to do that?
